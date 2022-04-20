@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "text": "This is a such a great product!",
+      "rating": 4
+    },
+    {
+      "text": "I would definetely recommend this product, it is perfect.",
+      "rating": 5
+    },
+    {
+      "text": "100% recommended.",
+      "rating": 4
+    },
+    {
+      "text": "Not the best quality but it is worth the price.",
+      "rating": 3
+    },
+    {
+      "text": "I did not like this product at all, there are better options in the same price range...",
+      "rating": 2
+    },
+    {
+      "text": "Absolutely dissapointing.",
+      "rating": 1
+    },
+    {
+      "text": "The kind of purchase you never regret!",
+      "rating": 4
+    },
+    {
+      "text": "Good product.",
+      "rating": 4
+    },
+    {
+      "text": "Beyond my expectations, for sure!",
+      "rating": 5
+    },
+    {
+      "text": "Turns out it is not what I was expecting.",
+      "rating": 1
+    },
+    {
+      "text": "I love it!!!",
+      "rating": 5
+    },
+    {
+      "text": "I bought it on sale, worth every penny.",
+      "rating": 4
+    },
+    {
+      "text": "I bought it as a gift and couldn't be happier.",
+      "rating": 4
+    },
+    {
+      "text": "Not bad, not great.",
+      "rating": 3
+    },
+    {
+      "text": "Not the best quality.",
+      "rating": 2
+    }
+  ]
+}

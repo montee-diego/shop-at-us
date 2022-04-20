@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Xbox Series S",
+      "price": 299,
+      "category": "electronics",
+      "description": "Introducing the Xbox Series S, the smallest, sleekest Xbox console ever. Experience the speed and performance of a next-gen all-digital console at an accessible price point.",
+      "image": "https://m.media-amazon.com/images/I/71NBQ2a52CL._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "PlayStation 5 Console",
+      "price": 459,
+      "category": "electronics",
+      "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games.",
+      "image": "https://m.media-amazon.com/images/I/619BkvKW35L._SL1500_.jpg"
+    }
+  ]
+}
